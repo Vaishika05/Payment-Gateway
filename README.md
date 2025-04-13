@@ -19,13 +19,17 @@ A simple backend payment processing API using Node.js, Express, and MongoDB. It 
 
 ## 🛠 Features Planned
 
-Retry Logic Done Adds fault tolerance for failed payments
-Queue for Logging Planned Improves scalability and monitoring  
- Payment History Planned Retrieve list of past transactions  
- Authentication Planned Protects payment endpoints with JWT  
- Frontend Dashboard Planned Visual display of transaction status  
- Dockerization Planned Containerized deployment  
- Email/SMS Notify Planned Alert user of transaction success/failure
+| Feature            | Status     | Purpose                                   |
+| ------------------ | ---------- | ----------------------------------------- |
+| Retry Logic        | 🔧 Done    | Adds fault tolerance for failed payments  |
+| Queue for Logging  | 🔧 Planned | Improves scalability and monitoring       |
+| Payment History    | 🔧 Planned | Retrieve list of past transactions        |
+| Authentication     | 🔧 Planned | Protects payment endpoints with JWT       |
+| Frontend Dashboard | 🔧 Planned | Visual display of transaction status      |
+| Dockerization      | 🔧 Planned | Containerized deployment                  |
+| Email/SMS Notify   | 🔧 Planned | Alert user of transaction success/failure |
+
+---
 
 ## 🔄 API Example
 
